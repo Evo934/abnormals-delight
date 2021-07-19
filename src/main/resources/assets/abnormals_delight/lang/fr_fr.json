@@ -1,0 +1,49 @@
+{
+  "block.abnormals_delight.rosewood_pantry": "Garde-manger en Bois de Rose",
+  "block.abnormals_delight.morado_pantry": "Garde-manger en Morado",
+  "block.abnormals_delight.yucca_pantry": "Garde-manger en Yucca",
+  "block.abnormals_delight.kousa_pantry": "Garde-manger en Kousa",
+  "block.abnormals_delight.aspen_pantry": "Garde-manger en Trembles",
+  "block.abnormals_delight.grimwood_pantry": "Garde-manger en Boisinistre",
+
+  "block.abnormals_delight.maple_pantry": "Garde-manger en bois d'érable",
+
+  "block.abnormals_delight.poise_pantry": "Garde-manger en Lévita",
+
+  "block.abnormals_delight.willow_pantry": "Garde-manger en",
+  "block.abnormals_delight.cherry_pantry": "Garde-manger en",
+  "block.abnormals_delight.wisteria_pantry": "Garde-manger en glycine",
+
+  "block.abnormals_delight.driftwood_pantry": "Garde-manger en Boisflotté",
+  "block.abnormals_delight.river_pantry": "Garde-manger en Rivière",
+
+  "item.abnormals_delight.seared_venison": "Chevreuil Poêlé",
+  "item.abnormals_delight.passionfruit_glazed_duck": "Canard Glacé aux Grenadille",
+  "item.abnormals_delight.dune_platter": "Plateau de Dunes",
+  "item.abnormals_delight.escargot": "escargots",
+
+  "item.abnormals_delight.silver_knife": "Couteau en Argent",
+  "item.abnormals_delight.necromium_knife": "Couteau en Nécrom",
+
+  "item.abnormals_delight.duck_fillet": "Filet de Canard",
+  "item.abnormals_delight.cooked_duck_fillet": "Filet de Canard Cuit",
+  "item.abnormals_delight.venison_shanks": "Jarrets de Chevreuil",
+  "item.abnormals_delight.cooked_venison_shanks": "Jarrets de Chevreuil Cuit",
+  "item.abnormals_delight.pike_slice": "Tranche de Brochet",
+  "item.abnormals_delight.cooked_pike_slice": "Tranche de Brochet Cuit",
+  "item.abnormals_delight.perch_slice": "Tranche de Perche",
+  "item.abnormals_delight.cooked_perch_slice": "Tranche de Perche Cuit",
+
+  "item.abnormals_delight.vanilla_cake_slice": "Tranche de Gâteau à la Vanille",
+  "item.abnormals_delight.chocolate_cake_slice": "Tranche de Gâteau au Chocolat",
+  "item.abnormals_delight.strawberry_cake_slice": "Tranche de Gâteau aux Fraises",
+  "item.abnormals_delight.banana_cake_slice": "Tranche de Gâteau à la banane",
+  "item.abnormals_delight.mint_cake_slice": "Tranche de Gâteau à la Menthe",
+  "item.abnormals_delight.adzuki_cake_slice": "Tranche de Gâteau aux azukis",
+  "item.abnormals_delight.yucca_gateau_slice": "tranche de gâteau au yucca",
+
+  "tooltip.caverns_and_chasms.afflicting": "affligeant",
+  "tooltip.caverns_and_chasms.slowing": "ralentissement",
+
+  "itemGroup.abnormals_delight": "Délice du fermier"
+}
